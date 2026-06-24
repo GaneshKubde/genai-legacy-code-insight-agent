@@ -1,5 +1,4 @@
 # GenAI-Powered Legacy Code Insight Agent
-![Uploading image.png…]()
 
 
 ## Overview
