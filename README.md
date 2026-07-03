@@ -1,23 +1,34 @@
-# GenAI-Powered Legacy Code Insight Agent
+## GenAI-Powered Legacy Code Insight Agent
 
+is a production-grade AI solution built to modernize legacy Java applications through intelligent code analysis and conversational AI.
 
-## Overview
+By combining AST parsing, semantic code embeddings, RAG pipelines, and Large Language Model, the platform generates comprehensive project documentation, explains classes, methods, APIs, and business logic, analyzes dependencies and code quality, identifies high-risk components, and allows developers to interact with complex codebases using natural language.
 
-GenAI-Powered Legacy Code Insight Agent is an AI-assisted platform designed to analyze legacy Java applications and provide contextual insights using Generative AI techniques.
+The solution dramatically improves developer productivity, reduces onboarding effort, and enables faster legacy system modernization.
 
-The application helps developers understand complex codebases by generating project summaries, identifying classes and methods, exploring dependencies, and enabling conversational interaction with uploaded code.
 
 ## Features
 
-* Java Code Analysis
-* Class and Method Extraction
-* Project Summary Generation
-* Streamlit Dashboard
-* Legacy Code Exploration
-* Future Support for RAG
-* Future Support for ChromaDB
-* Future Support for Ollama
-* Future Support for Architecture Visualization
+Java Code Analysis using AST Parsing
+Automatic Project Structure Discovery
+Intelligent Class & Method Extraction
+Package and Module Analysis
+Dependency Graph Generation
+Call Hierarchy & Method Flow Analysis
+Business Logic Understanding
+AI-Powered Project Summary Generation
+Automatic Technical Documentation Generation
+Conversational Code Assistant (Chat with Code)
+Semantic Code Search
+Function & API Explanation
+Code Complexity & Maintainability Analysis
+High-Risk Module Identification
+Dead Code Detection
+Duplicate Code Detection
+Code Smell Identification
+Exception Flow Analysis
+Repository-Wide Knowledge Discovery
+Legacy System Modernization Recommendations
 
 ## Technology Stack
 
@@ -28,7 +39,7 @@ The application helps developers understand complex codebases by generating proj
 * Generative AI
 * RAG (Planned)
 * ChromaDB (Planned)
-* Ollama (Planned)
+* DeepSeek V3
 
 ## How to Run
 
@@ -40,7 +51,7 @@ streamlit run app.py
 ## Future Enhancements
 
 * ChromaDB Integration
-* Ollama Integration
+* DeepSeek V3
 * LangChain RAG Pipeline
 * PDF Documentation Generation
 * Dependency Graph Visualization
