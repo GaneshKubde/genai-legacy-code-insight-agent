@@ -1,6 +1,6 @@
 ## GenAI-Powered Legacy Code Insight Agent
 
-is a production-grade AI solution built to modernize legacy Java applications through intelligent code analysis and conversational AI.
+GenAI-Powered Legacy Code Insight Agent is a production-grade AI solution built to modernize legacy Java applications through intelligent code analysis and conversational AI.
 
 By combining AST parsing, semantic code embeddings, RAG pipelines, and Large Language Model, the platform generates comprehensive project documentation, explains classes, methods, APIs, and business logic, analyzes dependencies and code quality, identifies high-risk components, and allows developers to interact with complex codebases using natural language.
 
