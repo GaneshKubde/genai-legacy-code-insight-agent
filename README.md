@@ -22,7 +22,7 @@ Conversational Code Assistant (Chat with Code)
 Semantic Code Search
 Function & API Explanation
 Code Complexity & Maintainability Analysis
-High-Risk Module Identification
+High-Risk Module Identification 
 Dead Code Detection
 Duplicate Code Detection
 Code Smell Identification
